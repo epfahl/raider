@@ -12,7 +12,7 @@ Clone the repo and start using it. `Raider` is a pure Python library with no ext
 
 ## Usage
 
-For most scenarios, the most sensible course will be to use the `raid` function as follows:
+For most scenarios, the sensible course will be to use the `raid` function as follows:
 
 ```
 import raider
